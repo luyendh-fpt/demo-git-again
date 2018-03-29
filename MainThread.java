@@ -9,5 +9,6 @@ public class MainThread{
 	System.out.println("Hello World Java.");
 	System.out.println("Hello World Java.");
 	System.out.println("Hello World Java.");
+	System.out.println("Tao là dev2.");
    }
 }
